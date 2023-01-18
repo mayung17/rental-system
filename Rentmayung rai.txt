@@ -1,0 +1,9 @@
+************************Beige Nepal************************ 
+
+Name of customer who rented : mayung rai
+Date of Renting: 2022-08-16
+Time of Renting14:20:59.013060
+
+S.N.              Cloth Name                                        Brand                   Price            Quantity
+------  -----------------------------------------------   -------------------------   -------------------   ---------- 
+1. 			Nike Air Maxess										 Addidas						$150					1

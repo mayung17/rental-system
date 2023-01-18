@@ -1,0 +1,15 @@
+*******************************Beige Nepal******************************* 
+
+Name of Returner: long a
+Date of Return  : 2022-08-16
+Time of Return  : 14:13:07.275909
+
+
+ S.N.            cloth Name                                 Brand               Cost of Cloth    Returned Quantity
+------  ------------------------------------------      -------------------    ---------------- -----------------
+1			levi StratJeans									 leevi's					$20				1
+
+------------------------------------
+Fine amount: $4.5|Total cost :20.0|
+-----------------------------------------------------------------------------------------------
+                                  Total cost altogether with fine:$24.5

@@ -1,0 +1,17 @@
+*******************************Beige Nepal******************************* 
+
+Name of Returner: ronal niraula
+Date of Return  : 2022-08-16
+Time of Return  : 14:06:23.707853
+
+
+ S.N.            cloth Name                                 Brand               Cost of Cloth    Returned Quantity
+------  ------------------------------------------      -------------------    ---------------- -----------------
+1			Cop Costume Set									 Cartmax					$15				6
+2			levi StratJeans									 leevi's					$20				1
+
+------------------
+Fine amount: $0.0|
+
+-----------------------------------------------------------------------------------------------
+                    Total cost altogether:$110.0

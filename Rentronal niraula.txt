@@ -1,0 +1,13 @@
+************************Beige Nepal************************ 
+
+Name of customer who rented : ronal niraula
+Date of Renting: 2022-08-15
+Time of Renting10:05:16.394505
+
+S.N.              Cloth Name                                        Brand                   Price            Quantity
+------  -----------------------------------------------   -------------------------   -------------------   ---------- 
+1. 			Cop Costume Set										 Cartmax						$15					5
+2. 			levi StratJeans									  leevi's							$20				4
+
+-----------------------------------------------------------------------------------------------------
+                                     Total price:$155.0
